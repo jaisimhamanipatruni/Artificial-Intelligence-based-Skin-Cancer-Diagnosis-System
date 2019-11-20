@@ -1,17 +1,12 @@
-# Skin_Cancer
+# Artificial Intelligence Based Skin Cancer Diagnosis System
 
-## Diagnosis of Skin Cancer Using Deep Learning
+## Diagnosis of Skin Cancer Using Deep Learning AI model
 
-## Table of Content
-[Data Wrangling](https://github.com/dereczjj1224/Skin_Cancer/blob/master/Imaging_Processing.ipynb)
 
-[ResNet50](https://github.com/dereczjj1224/Skin_Cancer/blob/master/Transfer%20learning-ResNet-retrain.ipynb)
 
-[VGG16](https://github.com/dereczjj1224/Skin_Cancer/blob/master/Transfer%20learning-VGG16.ipynb)
+### Cases of Study
 
-### Problem Statement
-
-It is estimated that as high as 20% of Americans is under the risks of getting skin cancer. The increasing incidences of skin cancer significantly raises pressure of healthcare costs and creates more demands of specialist services. The diagnosis of skin cancer usually requires dermoscopic analysis followed by a biopsy and pathological examination. By applying machine-learning techniques, it has a great chance to change the landscape of skin cancer diagnosis and reshape the role of dermatologists. 
+The increasing incidences of skin cancer significantly raises pressure of healthcare costs and creates more demands of specialist services. The diagnosis of skin cancer usually requires dermoscopic analysis followed by a biopsy and pathological examination. By applying machine-learning techniques, it has a great chance to change the landscape of skin cancer diagnosis and reshape the role of dermatologists. 
 
 Deep convolutional neural network (CNN) has been proven its terrific capability on classification of various images through extracting key features. Therefore, in this project, a dataset included 10015 dermatologic related with pigmented skin images with seven well labelled classes (Melanocytic Nevi, Melanoma, Benign Keratosis, Actinic Keratoses, Dermatofibroma, Vascular Skin Lesion, Basal Cell Carcinoma) was used to train several CNN models with different architectures.  The final model will be deployed online to allow users to predict skin cancer categories.
 
